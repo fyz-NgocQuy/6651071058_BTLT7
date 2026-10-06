@@ -1,0 +1,13 @@
+
+*{box-sizing:border-box}
+body{font-family:Arial,sans-serif;background:#f5f7fb;margin:0;padding:30px;color:#222}
+.container{max-width:800px;margin:auto;background:white;padding:28px;border-radius:14px;box-shadow:0 4px 18px #0002}
+h1{margin-top:0;color:#2457a6}
+button{padding:10px 18px;border:0;border-radius:8px;background:#2457a6;color:white;cursor:pointer;margin:5px}
+input,select{padding:9px;margin:5px;border:1px solid #bbb;border-radius:6px}
+.result{margin-top:18px;padding:14px;background:#eef5ff;border-radius:8px}
+table{border-collapse:collapse;width:100%;margin-top:15px}
+th,td{border:1px solid #999;padding:10px;text-align:center}
+th{background:#e9eef8}
+.error{color:#d00}
+.success{color:#087a28}
